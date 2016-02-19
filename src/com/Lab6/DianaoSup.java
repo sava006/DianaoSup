@@ -7,6 +7,7 @@ public class DianaoSup {
         DinSau velociraptor = new DinSau();
         t_rex.roar();
         velociraptor.roar();
+        DinSau stepasaurace = new DinSau();
         System.out.println("Dinasour Program");
 
     }
